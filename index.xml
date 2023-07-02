@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Baimaisir Blog</title>
+    <link>/</link>
+    <description>Recent content on Baimaisir Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Jul 2023 20:34:16 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Problem</title>
+      <link>/posts/problem/</link>
+      <pubDate>Sat, 01 Jul 2023 20:34:16 +0800</pubDate>
+      
+      <guid>/posts/problem/</guid>
+      <description>#尝试更换主题失败，更换主题后，写的博客不能正常显示，目前只好先换回来。 #已连续作业4个小时，还在继续尝试，悲。</description>
+    </item>
+    
+    <item>
+      <title>MySecondArticles</title>
+      <link>/posts/mysecondarticles/</link>
+      <pubDate>Sat, 01 Jul 2023 14:33:48 +0800</pubDate>
+      
+      <guid>/posts/mysecondarticles/</guid>
+      <description>写第一篇的时候没什么问题，尝试一下第二篇</description>
+    </item>
+    
+    <item>
+      <title>MyFirstArticles</title>
+      <link>/posts/myfirstarticles/</link>
+      <pubDate>Sat, 01 Jul 2023 10:46:27 +0800</pubDate>
+      
+      <guid>/posts/myfirstarticles/</guid>
+      <description>#这是我的第一篇博客内容（This is my first blog!）</description>
+    </item>
+    
+  </channel>
+</rss>
